@@ -1,6 +1,6 @@
-[![MasterHead](https://wallpaperaccess.com/full/2648921.jpg)]
 <h1 align="center">Hi 👋, I'm Dinusha Edirisinghe</h1>
 <h3 align="center">A passionate DevOps engineer from Sri Lanka</h3>
+<img align="right" alt="Coding" width=400" src= "https://media0.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47z3vdsza64tiyn6ex61d9v77t15xcnw7vfqgzdavy&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Kubernetes**
 
