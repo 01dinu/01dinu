@@ -1,3 +1,4 @@
+[![MasterHead](https://wallpaperaccess.com/full/2648921.jpg)]
 <h1 align="center">Hi 👋, I'm Dinusha Edirisinghe</h1>
 <h3 align="center">A passionate DevOps engineer from Sri Lanka</h3>
 
