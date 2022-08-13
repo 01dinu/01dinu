@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on ** DevOps projects.**
+- 👯 I’m looking to collaborate on **DevOps projects.**
 
 - 💬 Ask me about **DevOps things, react**
 
