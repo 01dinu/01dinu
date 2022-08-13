@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dinusha Edirisinghe</h1>
 
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **any cybersec-related projects.**
+- 👯 I’m looking to collaborate on ** DevOps projects.**
 
-- 💬 Ask me about **Cybersec-related things, react**
+- 💬 Ask me about **DevOps things, react**
 
 - 📫 How to reach me **01dinusha@gmail.com**
 
