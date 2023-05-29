@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **DevOps projects.**
+- 👯 I’m looking to collaborate on **Fullstack projects.**
 
-- 💬 Ask me about **DevOps things, react**
+- 💬 Ask me about **DevOps things, ReactJS**
 
 - 📫 How to reach me **01dinusha@gmail.com**
 
