@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects.**
 
-- 💬 Ask me about **DevOps things, ReactJS**
+- 💬 Ask me about **AWS, ReactJS**
 
 - 📫 How to reach me **01dinusha@gmail.com**
 
